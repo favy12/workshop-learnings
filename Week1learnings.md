@@ -16,7 +16,19 @@ DEVOPS and LINUX COMMANDS
 - mkdir: make a directory
 - chown: change file owner
 
+ Favour-reflections
+## FAVOUR'S KEY TAKEAWAY
+- DevOps is a culture and not just about tools.
+- Git is used for versioning, enhaances collaboration and rollbacks.
+- Linux commands basically makes work easier and enhances automation.
+
+## SKILLS GAINED
+- Branch creation
+- Linux commands
+- Devops culture
+
 Funke's highlight.
 - I learnt that devops is a software development methodology that accelerates the delivery of higher -quality applications and services.
 SKILLS GAINED
 - Thanks to Favour I learnt how to use the clone, fork and branch command.
+ main
