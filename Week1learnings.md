@@ -15,3 +15,8 @@ DEVOPS and LINUX COMMANDS
 - cd: change directory to a desired location
 - mkdir: make a directory
 - chown: change file owner
+
+Funke's highlight.
+- I learnt that devops is a software development methodology that accelerates the delivery of higher -quality applications and services.
+SKILLS GAINED
+- Thanks to Favour I learnt how to use the clone, fork and branch command.
