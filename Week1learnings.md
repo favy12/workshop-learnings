@@ -15,3 +15,13 @@ DEVOPS and LINUX COMMANDS
 - cd: change directory to a desired location
 - mkdir: make a directory
 - chown: change file owner
+
+## FAVOUR'S KEY TAKEAWAY
+- DevOps is a culture and not just about tools.
+- Git is used for versioning, enhaances collaboration and rollbacks.
+- Linux commands basically makes work easier and enhances automation.
+
+## SKILLS GAINED
+- Branch creation
+- Linux commands
+- Devops culture
